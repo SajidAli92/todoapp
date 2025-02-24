@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+
+@media(max-width: 550px){
+ .mytodoapp{
+    width: 180vw;
+    background-color: aqua;
+ }
+}
